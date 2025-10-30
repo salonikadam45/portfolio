@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc0d2784.css",
+    "main.js": "/static/js/main.474ba574.js",
+    "static/js/453.ad7768ec.chunk.js": "/static/js/453.ad7768ec.chunk.js",
+    "static/media/saloni.jpg": "/static/media/saloni.bbd02e473c5951f6f430.jpg",
+    "static/media/weather.jpg": "/static/media/weather.d41b83f5066529c7f353.jpg",
+    "static/media/myntra.jpg": "/static/media/myntra.ac06ee30504b9a9dfd15.jpg",
+    "static/media/amazon.jpg": "/static/media/amazon.20e698f3029536987e1a.jpg",
+    "static/media/hotel.jpg": "/static/media/hotel.7ee32c585717c55962a8.jpg",
+    "index.html": "/index.html",
+    "main.bc0d2784.css.map": "/static/css/main.bc0d2784.css.map",
+    "main.474ba574.js.map": "/static/js/main.474ba574.js.map",
+    "453.ad7768ec.chunk.js.map": "/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc0d2784.css",
+    "static/js/main.474ba574.js"
+  ]
+}
