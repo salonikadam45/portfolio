@@ -9,7 +9,7 @@ export default function Footer() {
                     {/*Left Column*/}
                     <div className="space-y-6">
                         <h2 className="text-4xl md:text-5xl font-bold text-teal-500 leading-tight">
-                            Let's Inspire & Mentor Minds Together
+                            Let's build something new together.
                         </h2>
                         <p className="text-xl text-gray-600 dark:text-gray-300">
                             Start by  {""}

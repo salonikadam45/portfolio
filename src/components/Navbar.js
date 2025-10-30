@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
 import { FiSun, FiMoon } from "react-icons/fi";
 
+
 export default function Navbar() {
   const [darkMode, setDarkMode] = useState(() => {
     // Check localStorage or system preference
@@ -32,9 +33,14 @@ export default function Navbar() {
     <nav className="fixed w-full top-0 bg-cream/90 dark:bg-gray-900/90 backdrop-blur z-50 border-b drak:border-gray-700">
       <div className="cotainer mx-auto px-3 sm:px-4 py-2 sm:py-3">
         <div className="flex justify-between item-center">
-          <a href="/" className="text-md sm:text-2x1 lg:text-xl font-normal text-teal-500 hovr:no-underline">
-            Saloni Kadam
-          </a>
+  
+<a
+  href="/"
+  className="text-3xl font-bold text-teal-500 hover:text-teal-400"
+  style={{ fontFamily: "'Dancing Script', cursive" }}
+>
+  Saloni Kadam
+</a>
           <ul className="flex space-x-4 item-center">
             {navLinks.map(link => (
               <li key={link.to}>
